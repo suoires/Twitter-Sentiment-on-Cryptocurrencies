@@ -2,6 +2,7 @@
 
 ## Overview
 The recent price breakout of Bitcoin and alternatives has generated an increasing amount of hype and speculation around these brand new assest classes. The price is mostly driven by the speculation on the future potential of these cryptocurrencies instead of their current utilities and adoption. Therefore, the cryptocurrency market movements are heavily affected by the sentiment of speculators invested in this space. Twitter and similar social platforms provide a large amount of data to help study the sentiment of investors in the early stage of cryptocurrency devolopment. 
+
 This is analysis, I use Twitter to learn more about the sentiment regarding the top 10 most popular cryptocurrencies (as of Feb,2018) and rank the polarity in descending order.
 
 ## Dependencies
