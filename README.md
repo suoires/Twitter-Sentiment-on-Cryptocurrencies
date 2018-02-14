@@ -11,6 +11,11 @@ The [demo code](https://github.com/llSourcell/twitter_sentiment_challenge/blob/m
 * textblob (https://textblob.readthedocs.io/en/dev/)
 
 ## Usage
+Once you have your dependencies installed via pip, run the script in terminal via
+
+```
+python demo.py
+```
 
 ## Credit
 This is the follow up code from the Twitter Sentiment Analyzer challenge for 'Learn Python for Data Science #2' by @Sirajology: [Siraj Raval](https://github.com/llSourcell). 
