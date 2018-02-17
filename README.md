@@ -7,9 +7,20 @@ This is analysis, I use Twitter to learn more about the sentiment regarding the 
 
 ## Dependencies
 The [demo code](https://github.com/llSourcell/twitter_sentiment_challenge/blob/master/demo.py) uses the tweepy library to access the Twitter API and the TextBlob library to perform Sentiment Analysis on each Tweet. My data analysis extension includes Numpy, Pandas library for storing and displaying result data, Matplotlib for data visualizaiton.
+
+Install the following packages using pip:
+
 * tweepy (http://www.tweepy.org/)
+
+```
+pip install tweepy
+```
+
 * textblob (https://textblob.readthedocs.io/en/dev/)
 
+```
+pip install textblob
+```
 ## Usage
 Once you have your dependencies installed via pip, run the script in terminal via
 
