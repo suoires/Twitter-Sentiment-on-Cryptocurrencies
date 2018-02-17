@@ -53,7 +53,7 @@ def get_polarity(x, neutral = 0):
 # summarize the result using pandas dataframe:
 summary = pd.DataFrame(list(all_polarities.items()), columns=['Crypto Currency', 'Polarity'])
 summary['Sentiment'] = summary.Polarity.apply(get_polarity)
-summary
+print(summary)
 
 # sort the dictionary based on values using operator
 all_polarities = dict(sorted(all_polarities.items(), key=operator.itemgetter(1),reverse=True))
